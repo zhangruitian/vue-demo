@@ -88,7 +88,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Hello world!'
+      msg: 'Hello world! zrt!'
     }
   }
 }
